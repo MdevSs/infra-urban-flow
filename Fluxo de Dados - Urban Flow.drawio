@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.2">
   <diagram name="Page-1" id="52a04d89-c75d-2922-d76d-85b35f80e030">
-    <mxGraphModel dx="1750" dy="883" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2333" dy="1178" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -138,14 +138,29 @@
         <mxCell id="lRav8HB0Zqkx85ylH6ax-55" value="Database" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7FE1B6;" parent="1" vertex="1">
           <mxGeometry x="902.5" y="591" width="120" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="mAjwHi3kne7VpVkRWlFG-3" value="IA" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#B932FF;strokeColor=#000000;fontColor=#FFFFFF;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="V8IghnL1uWui7FZe13fT-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mAjwHi3kne7VpVkRWlFG-3" target="V8IghnL1uWui7FZe13fT-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mAjwHi3kne7VpVkRWlFG-3" value="IA" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#B932FF;strokeColor=#000000;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="300" y="550" width="140" height="116" as="geometry" />
         </mxCell>
-        <mxCell id="mAjwHi3kne7VpVkRWlFG-4" value="Backend" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=light-dark(#2ECAC4,#EB77FF);strokeColor=#000000;fontColor=#000000;fontStyle=0;fillStyle=solid;" vertex="1" parent="1">
+        <mxCell id="mAjwHi3kne7VpVkRWlFG-4" value="Backend" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=light-dark(#2ECAC4,#EB77FF);strokeColor=#000000;fontColor=#000000;fontStyle=0;fillStyle=solid;" parent="1" vertex="1">
           <mxGeometry x="600" y="550" width="140" height="116" as="geometry" />
         </mxCell>
-        <mxCell id="mAjwHi3kne7VpVkRWlFG-5" value="Backend" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=light-dark(#2ECAC4,#EB77FF);strokeColor=#000000;fontColor=#000000;fontStyle=0;fillStyle=solid;" vertex="1" parent="1">
+        <mxCell id="mAjwHi3kne7VpVkRWlFG-5" value="Backend" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=light-dark(#2ECAC4,#EB77FF);strokeColor=#000000;fontColor=#000000;fontStyle=0;fillStyle=solid;" parent="1" vertex="1">
           <mxGeometry x="600" y="970" width="140" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="V8IghnL1uWui7FZe13fT-1" value="RaspBerry" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="V8IghnL1uWui7FZe13fT-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V8IghnL1uWui7FZe13fT-2" target="V8IghnL1uWui7FZe13fT-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V8IghnL1uWui7FZe13fT-2" value="Arduino" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=light-dark(#5bb80f, #eb77ff);strokeColor=#000000;fontColor=#FFFFFF;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="300" y="290" width="140" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="V8IghnL1uWui7FZe13fT-4" value="LEDs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#f41f43, #ff80a1);fontColor=light-dark(#ffffff, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="310" y="150" width="120" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
